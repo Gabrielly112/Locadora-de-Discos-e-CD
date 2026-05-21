@@ -1,0 +1,26 @@
+[
+    {
+        "tipo": "CD",
+        "titulo": "Thriller",
+        "artista": "Michael Jackson",
+        "disponivel": false
+    },
+    {
+        "tipo": "Vinil",
+        "titulo": "Abbey Road",
+        "artista": "The Beatles",
+        "disponivel": true
+    },
+    {
+        "tipo": "CD",
+        "titulo": "Back in Black",
+        "artista": "AC/DC",
+        "disponivel": true
+    },
+    {
+        "tipo": "Vinil",
+        "titulo": "The Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "disponivel": false
+    }
+]
